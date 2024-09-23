@@ -1,1 +1,99 @@
+- Referanse
+    - Kilde: EUs AI Act
+    - Nøkkelord [[referanse]]
+    - Koblinger
+        - #AI
+- Sammendrag
+    - Fortalen
+        - Fortalens punkt 1 sier at det ikke skal gjelde ytterligere begrensninger for utvikling, markedsføring og bruk av AI-systemer enn hva som følger av forordningen. Etter punkt 3 er et grunnleggende hensyn i den forbindelse hensynet til forutberegnelighet. 
+        - Reglene er etter punkt 7 også ment å ta inn over seg anbefalinger eller aktuelle retningslinjer fra ekspertgruppen [[High-Level Expert Group on Artificial Intelligence]]
+        - Fortalens punkt 8 påpeker spesifikt at det skal være et særlig fokus på små og mellomstore bedrifter.
+        - Etter punkt 9 skal direktiv 85/374/EEC om kompensasjon gjelde. Dette er produktansvarsdirektivet. Det er forøvrig et nytt produktansvarsdirektiv til behandling i skrivende stund.
+        - Etter punkt 20 skal kunnskap om AI være tilstede i hele verdikjeden.
+        - Punkt 21 sier at reglene skal gjelde tilbydere av AI-tjenester alle steder og "brukere" som er etablert i EU.
+        - Punkt 26 sier at reglene skal være basert på systemenes risiko.
+        - I Punkt 27 fremheves det at systemene skal være gjennomsiktige og forklarbare.
+        - Punkt 29 uttaler at manipulative teknikker skal være forbudt. Fortalen går her langt i å forby et vidt spekter av påvirkning. Omfattet av forbudet er også det som kalles "nudging". Det er verdt å merke seg at det også ved denne type resultat er skadefølgen eller skaderisikoen som er det sentrale vurderingskriteriet. Det kan altså ikke utledes av punkt 29 at det er et absolutt forbud mot manipulativ AI. 
+            - Det er altså resultatet som avgjør, ikke hensikten med systemet. 
+            - Det er også verdt å merke seg at reklame er unntatt, men det forstås som alminnelig aksepterte metoder for reklame og markedsføring.
+            - Det er også av interesse at punkt 29 inkluderer "harms that may be accumulated over time". **Ordlyden leder her tanken mot mindre skader. Dette er interessant, fordi det har vært noe diskusjon om hvorvidt mindre skader vil være omfattet erstatningsrettslig. Blant annet har Askeland tatt til orde for at en begrensning mot de små skadene ikke har belegg i norsk rett, se [[Ansvarsgrunnlag for tingsskader i næringsforhold voldt med kunstig intelligens, Bjarte Askeland]]. 
+        - Punkt 46 peker på at det er ønskelig å begrense hvilke systemer som faller inn i høyrisikokategorien [[High-Risk Systems]]
+        - Punkt 53 er særlig interessant fordi det går fram at bruk i en typisk høyrisikosituasjon likevel kan være tillatt i begrenset grad. 
+            - Dette gjelder tilfeller hvor systemet ikke materielt påvirker en beslutningsprosess, eller ikke i noen vesentlig grad skader beskyttede interesser. Punktet peker her på at flere alternative vilkår kan være oppfylt for at systemet likevel ikke representerer en betydelig risiko.
+            - For det første kan AI-systemet være satt til å utføre en snever prosessuell oppgave. Her er det nevnt eksempler hvor AI sorterer og kategoriserer uordnet data, eller gjennomgår datamateriale for duplikater eller liknende.
+            - For det andre kan oppgaven AI-systemet gjennomfører bare har som hensikt å forbedre en oppgave allerede gjennomført av et menneske. Eksempelvis å forbedre teksten i et allerede skrevet dokument. Her nevnes både forbedringer i språk, tone, stilart og "certain brand messaging". **Etter min mening er dette interessant fordi tilpasning av budskapet har en viss nærhet til mer manipulative teknikker. Det er en flytende overgang mellom å tilpasse et budskap for å passe et merke eller et markedssegment og det å tilpasse det til et individs predisposisjoner**.
+            - Det tredje alternativet er der AI-systemet bare er ment å registrere beslutningsmønstre eller avvik fra tidligere beslutningsmønstre. 
+            - Det fjerde alternativet er at AI-systemet bare gjør en forberedende oppgave til en etterfølgende vurdering som er omfattet av reguleringen. Her nevnes oppgaver som oversettelser, indeksering av dokumenter, eller tekst og talegjenkjenning. 
+            - I alle tilfeller vil et system likevel utgjøre en betydelig risiko for for fundamentale rettigheter om det "implies profiling" etter artikkel 4 punkt 4. At fortalen her brukes "implies profiling" bør ses i sammenheng med at profilering kan skje i det skjult gjennom [[Proxy-variabler]].
+            - Hvis en utvikler mener at disse vilkårene passer på det aktuelle systemet skal dokumentasjon på denn vurderingen gjøres tilgjengelig for nasjonale myndigheter.
+        - Punkt 58 slår fast at AI som benyttes for å vurdere rett til velferdsgoder vil være å anse som høyrisiko.
+        - Punkt 59 og 60 tar for seg bruk av AI i rettspleien.
+        - Punkt 61 sier at AI i domstolene også regnes som #[[High-Risk Systems]]
+            - Det er bruk av AI som knytter seg til tolkning av faktum og juss som er omfattet i denne sammenhengen. 
+            - Det slås uttrykkelig fast at de endelige rettslige beslutninger skal være en menneskedrevet aktivitet. 
+        - Punkt 63 understreker at bruken av AI-systemer også må være i tråd med annen lovgivning, for eksempel #gdpr
+        - Punkt 65: Risikobegrensning av [[High-Risk Systems]] skal følge hele produktets levetid. Det skal interessant nok også tas hensyn til bruk som ikke er innenfor produktets formål, men som er forutsigbart.
+        - Punkt 67: Skjevheter i datasett skal gis særlig oppmerksomhet.
+        - Punkt 70 er særlig viktig fordi det gir anledning til å benytte sensitive opplysninger med det formål å beskytte mot skjevheter i algoritmen. Dette kan med fordel ses i sammenheng med [[Forklarbarhet i algoritmisk velferdsforvaltning. Demokrati og rettssikkerhet ved bruk av maskinlæringsmodeller i saksbehandlingen. Åse Haram.]] og [[Operationalizing the Legal Principle of Data Minimization for Personalization]].
+        - Punkt 72 understreker at systemene må utvikles slik at brukere forstår hvordan de fungerer og kan evaluere funksjonaliteten. Det omfatter også at brukerne må kunne forstå de styrker og begrensninger systemene har. Dette påpekes også av Haram i [[Forklarbarhet i algoritmisk velferdsforvaltning. Demokrati og rettssikkerhet ved bruk av maskinlæringsmodeller i saksbehandlingen. Åse Haram.]]
+        - Punkt 73 peker på at systemene må bygges med menneskelig oppsyn i tankene. De som betjener systemene må videre ha nødvendig kompetanse. Hva som ligger i [[Kompetansekravet]] er ikke nærmere utdypet her.
+        - Punkt 85 og 86 berører at et generelt AI-system ikke behøver å være et [[High-Risk Systems]] i seg selv, men at det kan inngå som komponent i et slikt system. Den opprinnelige leverandøren regnes da ikke som leverandør av et høyrisikosystem, men skal samarbeide for å oppfylle kravene i forordnignen. Dette gjelder likevel ikke om leverandøren har forbudt slik bruk av systemene de leverer. Det er altså her en adgang for utviklere til å beskytte seg mot ansvar. 
+        - I punkt 91 understrekes igjen kravet til brukerens kompetanse [[Kompetansekravet]].
+        - Punkt 96 omhandler bruken i offentlige tjenester og pålegger offentlige tjenestetilbydere å gjennomføre en vurdering av effekten på fundamentale rettigheter. 
+        - Punkt 97: En AI-modell er ikke det samme som et AI-system. Fortalen understreker her at skillet må være klart definert for å sikre rettslig forutberegnelighet. Se her [[Modeller og Systemer, et viktig skille]]
+            - Punkt 97 inneholder også en slags ansvarsbegrensning for interne AI-modeller. Ordlyden er som følger: "The obligations laid down for models should in any case not apply when an own model is used for purely internal processes that are not essential for providing a product or a service to third parties and the rights of natural persons are not affected."
+        - Punkt 99: Definerer hva som er å anse som en [[General-purpose AI model]]. Store generative modeller løftes her frem som eksempel. Både ChatGPT og Claude Sonnet vil være å anse som slike generelle modeller. 
+        - Punkt 109 ser ut til å oppstille en relativisert plikt til å oppfylle forpliktelsene i forordningen. Videre har også brukere som bare spesialtrener en modell en noe begrenset plikt til dokumentasjon. Det er viktig å se dette i lys av hva som er praktisk gjennoførbart for mindre bedrifter og også hva som er teknisk overkommelig å dokumentere for brukere som bare i begrenset grad påvirker hvordan en modell fungerer. 
+        - Punkt 143 løfter igjen fram hensynet til små og mellomstore bedrifter.
+        - Punkt 146: Mikroselskaper skal ha ytterligere lempligere regler. 
+        - Punkt 166 presiserer at også systemer og produkter som ikke klassifiseres som [[High-Risk Systems]] skal være trygge. Det vises til produktsikkerhetsdirektivet 2023/988 som et sikkerhetsnett.
+        - Punkt 168: Statene skal ha kontroll og tvangsmidler tilgjengelig for å håndheve forordningen.
+        - Punkt 171: Personer har en rett til forklaring. Det nærmere innholdet i forklaringen er ikke helt klart, men det fremgår at den skal være klar og meningsfylt. 
+        - Punkt 177 sier at forordningen ikke skal gjelde systemer som er på markedet før AI Act trer i kraft.
+        - Reguleringene i forordningen skal gjelde 2 år etter at AI Act trer i kraft, men etter punkt 179 skal forbudene i forordningen gjelde allerede 6 måneder etter at forordningen trer i kraft. 
+        - Punkt 179 understreker likevel at forordningen bør ha en innvirkning på privatretten allerede før ikrafttredelse. 
+    - Reguleringen
+        - Chapter 1
+            - Artikkel 3 Definisjoner:
+                - Det er mange definisjoner her som er av betydning for forståelsen av forordningen, men av særlig generell betydning er skillet mellom "provider" og "deployer". Dette er i praksis skillet mellom utvikler og bruker. Det er imidlertid en videre betydning enn i dagligtale. Brukere av systemet er ikke utelukkende sluttbrukere, men også de som benytter et AI-system til bruk profesjonelt. 
+                - Et annet viktig skille er mellom AI-modeller og AI-systemer.
+                - Av andre defininsjoner er det verdt å merke seg hva som er å regne som "serious incident". Det er et årsakskrav i denne definisjonen i det gjelder både hendelser som **directly or indirectly** leder til skade.
+                - Etter punkt 52 er personopplysninger å forstå likt som i [[gdpr]]
+                - Punkt 63 definerer en "general-purpose A-model" som en modell som har vesentlig generalitet og evner å kompetent utføre et bredt spekter av oppgaver uavhengig av hvordan modellen plasseres på markedet og kan integreres i et forskjellige nedstrøms applikasjoner og systemer". 
+            - Artikkel 4 kunnskapskravet
+                - Både utviklerer og brukere har et krav om at ansatte skal ha et tilstrekkelig kunnskapsnivå for å benytte AI-systemer. Kunnskapskravet skal etter artikkel fire tilpasses de ansattes utdanning og tekniske kvalifikasjoner. Den sammenhengen systemet skal brukes i og mot hvilken brukergruppe systemet skal henvende seg eller benyttes på. **Det er altså et relativisert kunnskapskrav her**
+            - Chapter 2
+                - Det er forbud mot underbevisst manipulasjon i artikkel 1 (a). Dette må ses i sammenheng med punkt 53 i fortalen som oppstiller unntak fra hva som er å regne som High-risk systemer og som blant annet tillater bruk av AI for å forbedre et budskap.
+            - Chapter 3 High-Risk Systems
+                - Artikkel 1 definerer høyrisikosystemer
+                - Artikkel 2 viser til at også definisjonene i Annex 3 er å anse som høyrisiko.
+                    - Av nevneverdige ting i Annex 3 kan løftes frem at gjenkjenning av følelser etter art. 1c er å anse som høyrisiko.
+                    - Etter art. 8 vil også bruk i rettspleien være å anse som høyrisiko.
+                - Artikkel 3 inneholder viktige unntak ved derogasjon. Det er særlig der systemet ikke  medfører noen vesentlig risiko at dette er tilfellet. Bokstavene a til d oppstiller flere alternative vilkår hvor dette vil være tilfellet. Blant annet om systemet gjør en snever prossessuell oppgave etter bokstav a. Om den forbedrer resultatet av en tidligere utført menneskelig oppgave etter bokstav b. Om den er designet til å påvise beslutningsmønstre eller avvik fra beslutningsmønstre etter bokstav c. Og til sist om den bare gjør en forberedende oppgave etter bokstav d.
+                    - **Artikkel 3 ser ut til å særlig åpne opp for bruken av AI som beslutningsstøtte Dette er en særlig praktisk bruk. Denne åpningen må også ses i lys av kunnskapskravet i Chapter 1 artikkel 4.
 
+Det er også verdt å ha i bakhodet at om et system utfører profilering, vil det alltid være High-Risk.
+
+Mye av kampen vil sannsynligvis stå her fordi det vil tjene alle som bruker slike systemer å unngå at bruken klassifiseres som High-Risk.**
+                - Artikkel 9 sier at høyrisikosystemer skal ha et risikohåndteringssystem. I de følgende artiklene hvordan slik risikohåndtering skal skje. 
+                - Artikkel 10 punkt 5 er kanskje av særlig interess fordi den åpner for bruk av sensitive data for å kontrollere for bias. Bokstavene a til f inneholder videre betingelse for slik bruk. Se dette i lys av #dataminimering
+                - Artikkel 11 om dokumentasjonskrav. Kravet gjelder både når et system plasseres på markedet og når det blir "put into service". Ordlyden indikerer at kravet gjelder utvikleren 
+                - Artikkel 13 tar for seg gjennomsiktighet og informasjon til brukere av systemer. 
+                - Artikkel 14 slår fast at menneskelig oppsyn skal være inkludert og at det skal vurderes hvor i systemstrømmen oppsynet skal finne sted. Etter sin ordlyd er det "provider" som skal gjøre denne vurderingen. 
+                - Artikkel 25 om ansvarsplassering gjennom AI-kjeden. Det mest sentrale her er at ansvaret som påhviler utviklere kan oppstå også for bruker om de setter navnet sitt på et produkt, eller modifiserer det. Men dette gjelder bare innenfor rammen av hva som er high-risk systemer. 
+
+Det er også verdt å merke seg at utvikleren av et AI-system til en viss grad kan beskytte seg mot ansvar dersom brukeren har endret et system til å bli høyrisiko mot utviklers eksplisitte forbud. 
+                - Artikkel 26 om brukeres ansvar for high-risk systemer . Sentralt her er et krav om passende tekniske og organisatoriske tiltak, samt å sikre tilstrekkelig kompetanse hos de ansatte som har overoppsyn med systemet. 
+                - Artikkel 27 Krav til Impact assessment. 
+                - Section 4 omhandler notifikasjon til myndigheter.
+                - Section 5 omhandler Standarder
+                - Det kan nevnes artikkel 42 om en presumsjon for konformitet med relevante krav i artikkel 10(4).
+            - Chapter 4 Gjennomsiktighet
+                - Artikkel 50 om plikt til å informere.
+            - Chapter 5 General-purpose AI-models (gpAIm)
+                - Artikkel 51 gjelder klassifisering av modeller med systemrisiko.
+                - Det står mer om gpAIm i Annex 2
+            - Chapter 6 om støtte til innovasjon
+                - Artikkel 57 krever at myndigheter skal ha et sandkasseprosjekt tilgjengelig. Verdt å merke seg at punkt 12 her slår fast at også slike sandkasseprosjekt er underlagt alminnelig erstatningsansvar etter gjeldende rett. 
+                - Artikkel 60 om testing i samfunnet. Det må søkes for å teste et high-risk system i samfunnet.
+            - Chapter 9 Markedsovervåking, informasjonsdeling mv. o
