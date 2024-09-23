@@ -8,7 +8,7 @@
         - Fortalens punkt 1 sier at det ikke skal gjelde ytterligere begrensninger for utvikling, markedsføring og bruk av AI-systemer enn hva som følger av forordningen. Etter punkt 3 er et grunnleggende hensyn i den forbindelse hensynet til forutberegnelighet. 
         - Reglene er etter punkt 7 også ment å ta inn over seg anbefalinger eller aktuelle retningslinjer fra ekspertgruppen [[High-Level Expert Group on Artificial Intelligence]]
         - Fortalens punkt 8 påpeker spesifikt at det skal være et særlig fokus på små og mellomstore bedrifter.
-        - Etter punkt 9 skal direktiv 85/374/EEC om kompensasjon gjelde. Dette er produktansvarsdirektivet. Det er forøvrig et nytt produktansvarsdirektiv til behandling i skrivende stund.
+        - Etter punkt 9 skal direktiv 85/374/EEC om kompensasjon gjelde. Dette er produktansvarsdirektivet. Det er forøvrig et nytt produktansvarsdirektiv til behandling i skrivende stund. #erstatning #produktansvar
         - Etter punkt 20 skal kunnskap om AI være tilstede i hele verdikjeden.
         - Punkt 21 sier at reglene skal gjelde tilbydere av AI-tjenester alle steder og "brukere" som er etablert i EU.
         - Punkt 26 sier at reglene skal være basert på systemenes risiko.
